@@ -1,0 +1,14 @@
+C:\Users\Hoang Van\source\repos\Demo_ASM1\Demo_ASM1\bin\Debug\netcoreapp3.1\Demo_ASM1.exe
+C:\Users\Hoang Van\source\repos\Demo_ASM1\Demo_ASM1\bin\Debug\netcoreapp3.1\Demo_ASM1.deps.json
+C:\Users\Hoang Van\source\repos\Demo_ASM1\Demo_ASM1\bin\Debug\netcoreapp3.1\Demo_ASM1.runtimeconfig.json
+C:\Users\Hoang Van\source\repos\Demo_ASM1\Demo_ASM1\bin\Debug\netcoreapp3.1\Demo_ASM1.runtimeconfig.dev.json
+C:\Users\Hoang Van\source\repos\Demo_ASM1\Demo_ASM1\bin\Debug\netcoreapp3.1\Demo_ASM1.dll
+C:\Users\Hoang Van\source\repos\Demo_ASM1\Demo_ASM1\bin\Debug\netcoreapp3.1\Demo_ASM1.pdb
+C:\Users\Hoang Van\source\repos\Demo_ASM1\Demo_ASM1\obj\Debug\netcoreapp3.1\Demo_ASM1.csproj.AssemblyReference.cache
+C:\Users\Hoang Van\source\repos\Demo_ASM1\Demo_ASM1\obj\Debug\netcoreapp3.1\Demo_ASM1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang Van\source\repos\Demo_ASM1\Demo_ASM1\obj\Debug\netcoreapp3.1\Demo_ASM1.AssemblyInfoInputs.cache
+C:\Users\Hoang Van\source\repos\Demo_ASM1\Demo_ASM1\obj\Debug\netcoreapp3.1\Demo_ASM1.AssemblyInfo.cs
+C:\Users\Hoang Van\source\repos\Demo_ASM1\Demo_ASM1\obj\Debug\netcoreapp3.1\Demo_ASM1.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Van\source\repos\Demo_ASM1\Demo_ASM1\obj\Debug\netcoreapp3.1\Demo_ASM1.dll
+C:\Users\Hoang Van\source\repos\Demo_ASM1\Demo_ASM1\obj\Debug\netcoreapp3.1\Demo_ASM1.pdb
+C:\Users\Hoang Van\source\repos\Demo_ASM1\Demo_ASM1\obj\Debug\netcoreapp3.1\Demo_ASM1.genruntimeconfig.cache
